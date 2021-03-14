@@ -29,8 +29,10 @@ http://www.unic.un.org.pl/files/164/Agenda%202030_pl_2016_ostateczna.pdf
 
 ### Scenario by Rockefeller Foundation
 
-PDF, Plan for 20 years
+Plan for 20 years,
+PDF:
 http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf
 
-PDF, Plan for 100 years
+Plan for 100 years,
+PDF:
 https://www.rockefellerfoundation.org/wp-content/uploads/1b8843cc-0d4c-4d5e-bf35-4c7b2fbbb63d-the.pdf
