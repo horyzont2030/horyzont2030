@@ -1,3 +1,5 @@
+![logo](https://logo.horyzont2030.pl/1/cover.png)
+
 # [horyzont2030.pl - O projekcie horyzont2030](https://www.horyzont2030.pl/)
 
 Obecnie popularne są różne dokumenty, pokazujące zamysły korporacji we współudziale skorumpowanych rządów.
