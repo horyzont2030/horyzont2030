@@ -9,9 +9,28 @@ potrzebny jest plan, zapraszam do jego tworzenia.
 
 
 # Aktualne konkurencyjne plany
-## agenda-2030
+
+### Horizon 2030
+
+WWW:
+https://www.eib.org/en/publications/horizon-2030
+
+PDF:
+https://www.eib.org/attachments/strategies/horizon_2030_en.pdf
+
+
+### agenda-2030
 WWW:
 https://www.un.org.pl/agenda-2030-rezolucja
 
 PDF:
 http://www.unic.un.org.pl/files/164/Agenda%202030_pl_2016_ostateczna.pdf
+
+
+### Scenario by Rockefeller Foundation
+
+PDF, Plan for 20 years
+http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf
+
+PDF, Plan for 100 years
+https://www.rockefellerfoundation.org/wp-content/uploads/1b8843cc-0d4c-4d5e-bf35-4c7b2fbbb63d-the.pdf
