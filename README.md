@@ -5,7 +5,7 @@
 Obecnie popularne są różne dokumenty, pokazujące zamysły korporacji we współudziale skorumpowanych rządów.
 Jak się bronić?
 
-# Dlaczego zsotała stworzona ta strona?
+# Dlaczego?
 
 Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce.
 Potrzebny jest plan, zapraszam do jego współtworzenia.
