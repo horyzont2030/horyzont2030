@@ -5,8 +5,17 @@
 Obecnie popularne są różne dokumenty, pokazujące zamysły korporacji we współudziale skorumpowanych rządów.
 Jak się bronić?
 
-potrzebny jest plan, zapraszam do jego tworzenia.
+# Dlaczego zsotała stworzona ta strona?
 
+Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce.
+Potrzebny jest plan, zapraszam do jego współtworzenia.
+
+## Bezpieczeństwo
++ kryptografia w komunikacji, wymianie danych, usług, produktów
++ infrastruktura energetyczna i komunikacyjna
++ ograniczenie szkodliwego bezprawnego działania rządów
+
+W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rządów i służb specjalnych warto rozważyć wielowektorowe modularne rozwiązania.
 
 # Aktualne konkurencyjne plany
 
