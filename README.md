@@ -24,6 +24,37 @@ potrzebny jest plan, zapraszam do jego tworzenia.
 + [PDF](http://www.unic.un.org.pl/files/164/Agenda%202030_pl_2016_ostateczna.pdf)
 
 
+#### Czym jest agenda 2030?
+
+Z obserwacji wydarzeń w ostatnim roku 2020 łatwo można zauważyć pewną specyfikę obecnych czasów.
+Istota demokracji polegająca na rządach ludu choćby w referendach nie jest realizowana.
++ [Demokracja](https://pl.wikipedia.org/wiki/Demokracja)
+
+
+To jaki system przeważa nie zależy od samych zapisów prawa a od jego egzekwowania zgodnie a nie ponad prawem.
+Niestety wielu odczuło w czasie Lockdown'u, że prawo silniejszego to najbardziej aktualne prawo.
+
+Agenda 2030 to nie inicjatywa rządów a ludzi korporacji wpływających na zmiany na poziomie kraju poprzez lobbing.
+
+Rezultaty działań Agendy 2030 dotyczą całego globu i nie jest możliwe jej powstrzymanie, dlatego tym bardziej warto zrozumieć już dziś rezultaty tego planu na najbliższą dekadę.
+
+#### Pytania
+
+Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie eksperyment, mając mozłiwość przekonujać się czym jest ta agenda:
++ czy agenda 2030 uchroni nas przed skutkami tego z czym oficjalnie mówi, że walczy?
++ co jeśli agenda 2030 poniesie fiasko i zamiast tego co planowała przyniesie odwrotne skutki?
++ Jak zmieni się stan własności przecietnej osoby w roku 2030?
++ Jak zmieni się model i jakość życia?
++ Jak wzrosną koszty życia i energii oraz surowców?
++ jak zmieni się ilość ludności, starszych osób?
++ Jakie w praktyce będzie miała prawa jednostka, o czym będzie mogła decydować ?
++ Do czego wystarczy dochód podstawowy?
++ Od czego będzie uzależniony dochód podstawowy i czy będzie można funkcjonować bez niego?
++ jak wpłynie to na zdrowie i opiekę medyczną?
++ Jak zmieni się ilość niewolników na świecie oraz ilość obozów koncentracyjnych?
+
+
+
 ### Scenario by Rockefeller Foundation
 
 + Plan for 20 years
