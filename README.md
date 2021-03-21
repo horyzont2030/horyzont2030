@@ -24,10 +24,10 @@ Dajmy ludziom popełniać błędy, krzywdzić siebie, umierać...
 
 Z drugiej strony stwórzmy warunki, takie jak tworzymy dzieciom, by się same nie okaleczyły i nie krzywdziły innych swoją niewiedzą.
 
-Zapraszam do współrworzenia architektury Lepszego Porządku Świata.
+Zapraszam do współrworzenia architektury Naszego Porządku Świata.
 
 
-# Plan (LPŚ) Lepszego Porządku Świata
+# Plan (NPŚ) Naszego Porządku Świata
 
 Potrzebny jest plan, zapraszam do jego współtworzenia.
 W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rządów i służb specjalnych warto rozważyć wielowektorowe modularne rozwiązania.
