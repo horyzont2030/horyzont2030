@@ -12,6 +12,40 @@ Jak się bronić?
 
 Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą wolność.
 
+
+
+##  Prowokujące do myślenia punkty 
+
+### 8 symptomów lawiny pseudo-postępu w dobie mega-przekrętu
++ Autorem jest Christoph Szakowski
+
+#### "Dywersyfikacja"
+czyli konsekwentne mydlenie oczu dla uzurpacji modnego wizerunku pozornej różnorodności. Mylonego z naturalnym szacunkiem do drugiego człowieka
+
+#### "Inkluzywność"
+czyli zmuszanie wszystkich do należenia do czegoś zamiast pozostawienia wolnego wyboru
+
+#### "Budowanie równego świata" 
+czyli zrównanie z ziemią wszystkiego co nie tech, pharma i obraca co najmniej miliard dolarów
+
+#### "Walka z biedą" 
+czyli systemowe doprowadzanie do ubóstwa i śmierci głodowej setek milionów z jednoczesnym potrójnym wzrostem majątków miliarderów. W ciągu jednego roku.
+
+#### "Dbanie o bezpieczeństwo"
+czyli totalna kontrola nad Tobą, Twoim ciałem i umysłem
+
+#### "Progres nauki" 
+alias programowanie stada tym, w co ma wierzyć i nigdy nie kwestionować
+
+#### "Sprawiedliwość społeczna" 
+czyli mordowanie osiągnięć klasy średniej i jej biznesów celem dalszego panstwowego rozdawnictwa i uzależniania obywateli od aparatu rządowego i jego mafijnego systemu psychopatów i patologicznych kłamców
+
+#### "Rozwój krajów demokratycznych" 
+czyli ostry zjazd znaczenia suwerenności państwa wobec ośmiornicy organizacji supranarodowych służących tylko ultra-elitom plujących od dekad na "władzę ludu"
+
+
+
+
 ## Pytania
 
 Oto kilka pytań, dla uważających, że "ludzie się budzą":
