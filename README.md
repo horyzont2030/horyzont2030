@@ -5,9 +5,10 @@
 Od wielu lat znane są opinii publicznej dokumenty, opisujące dalekosiężne plany, zamysły organizacji/korporacji we współudziale skorumpowanych rządów.
 
 Jak się bronić?
-- stwórzmy własny plan? dla równowagi?
+- stwórzmy własny plan, dla równowagi
 
-# Dlaczego?
+# Dlaczego warto?
++ Nie robiąc nic godzimy się na przygotowane dla nas scenariusze.
 
 Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą woność.
 
