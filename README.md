@@ -10,9 +10,24 @@ Jak się bronić?
 # Dlaczego warto?
 + Nie robiąc nic godzimy się na przygotowane dla nas scenariusze.
 
-Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą woność.
+Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą wolność.
 
-# Plan
+## Pytania
+
+Oto kilka pytań, dla uważających, że "ludzie się budzą":
+1. Jaka jest natura tego świata, jakimi zasadami doboru naturalnego rządzi się ten świat?
+2. Jak demokracja wpłynęła na wolność w kontekście popularnej pandemii?
+3. Jak to się ma do (nie)demokratycznej Białorusi, gdzie w tym aspekcie jest szanowana wolność jednostki?
+4. Jakim prawem oczekuje Pan/i, że ludzie będą myśleć logicznie i wyciągać wnioski, dlaczego odbiera im Pan/i prawo do bycia sobą?
+
+Dajmy ludziom popełniać błędy, krzywdzić siebie, umierać...
+
+Z drugiej strony stwórzmy warunki, takie jak tworzymy dzieciom, by się same nie okaleczyły i nie krzywdziły innych swoją niewiedzą.
+
+Zapraszam do współrworzenia architektury Lepszego Porządku Świata.
+
+
+# Plan (LPŚ) Lepszego Porządku Świata
 
 Potrzebny jest plan, zapraszam do jego współtworzenia.
 W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rządów i służb specjalnych warto rozważyć wielowektorowe modularne rozwiązania.
