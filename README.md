@@ -2,13 +2,24 @@
 
 # [horyzont2030.pl - O projekcie horyzont2030](https://www.horyzont2030.pl/)
 
-Obecnie popularne są różne dokumenty, pokazujące zamysły korporacji we współudziale skorumpowanych rządów.
+Od wielu lat znane są opinii publicznej dokumenty, opisujące dalekosiężne plany, zamysły organizacji/korporacji we współudziale skorumpowanych rządów.
+
 Jak się bronić?
+- stwórzmy własny plan? dla równowagi?
 
 # Dlaczego?
 
-Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce.
+Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą woność.
+
 Potrzebny jest plan, zapraszam do jego współtworzenia.
+
+# Punkty 
++ Bezpieczeństwo 
++ Prywatność
++ Prawo
++ Swoboda działaności gospodarczej
++ Obrona długofalowa
+
 
 ## Bezpieczeństwo
 + kryptografia w komunikacji, wymianie danych, usług, produktów
@@ -17,7 +28,10 @@ Potrzebny jest plan, zapraszam do jego współtworzenia.
 
 W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rządów i służb specjalnych warto rozważyć wielowektorowe modularne rozwiązania.
 
-# Aktualne konkurencyjne plany
+
+
+# Aktualnie konkurencyjne plany
+To tylko niektóre, jest ich o wiele wiecej, zapraszam do zgłaszania linków z opisem
 
 ### Horizon 2030
 
