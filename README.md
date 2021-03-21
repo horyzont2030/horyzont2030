@@ -12,23 +12,38 @@ Jak się bronić?
 
 Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą woność.
 
-Potrzebny jest plan, zapraszam do jego współtworzenia.
+# Plan
 
-# Punkty 
-+ Bezpieczeństwo 
+Potrzebny jest plan, zapraszam do jego współtworzenia.
+W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rządów i służb specjalnych warto rozważyć wielowektorowe modularne rozwiązania.
+
 + Prywatność
-+ Prawo
 + Swoboda działaności gospodarczej
++ Bezpieczeństwo 
++ Prawo
 + Obrona długofalowa
 
 
+
+
 ## Bezpieczeństwo
-+ kryptografia w komunikacji, wymianie danych, usług, produktów
+
 + infrastruktura energetyczna i komunikacyjna
+
+
+
+## Prywatność
++ kryptografia w komunikacji, wymianie danych, usług, produktów
+
+
+## Swoboda działaności gospodarczej
+
+
+## Prawo
 + ograniczenie szkodliwego bezprawnego działania rządów
 
-W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rządów i służb specjalnych warto rozważyć wielowektorowe modularne rozwiązania.
 
+## Obrona długofalowa
 
 
 # Aktualnie konkurencyjne plany
