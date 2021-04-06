@@ -150,3 +150,13 @@ Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie e
 
 + Plan for 100 years
 [PDF](https://www.rockefellerfoundation.org/wp-content/uploads/1b8843cc-0d4c-4d5e-bf35-4c7b2fbbb63d-the.pdf)
+
+
+# Wywiady
+
+https://www.youtube.com/watch?v=EbHUn1Spxyw
+Rozmowa z legendą polskiego biznesu, Romanem Kluską o dawnej i dzisiejszej władzy, związanych z tym sposobach i koniecznościach w prowadzeniu biznesu w Polsce oraz ukrytych motywach dzisiejszych ruchów społeczno - gospodarczych na świecie.
++ inwigilacja
++ kontrola
++ wykluczenie
++ książka  Roland Baader - Koniec pieniądza papierowego
