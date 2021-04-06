@@ -160,3 +160,8 @@ Rozmowa z legendą polskiego biznesu, Romanem Kluską o dawnej i dzisiejszej wł
 + kontrola
 + wykluczenie
 + książka  Roland Baader - Koniec pieniądza papierowego
+
+
+# Technologie
++ kanały podziemne
+https://spectrum.ieee.org/automaton/robotics/industrial-robots/eu-developing-robot-badgers-for-underground-excavation
