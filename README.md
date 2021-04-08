@@ -12,6 +12,22 @@ Jak się bronić?
 
 Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą wolność.
 
+# Wielki RESET
+
+Koncepcja Wielkiego Resetowania obejmuje pięć priorytetów:
+
++ umowa społeczna, zamiast głębokiego socializmu, kredytowanie życia, oficjalnie zmniejsza obciążenia przenoszone na przyszłe pokolenia i zmniejsza nierówności wewnątrz krajów i między nimi, łagodząc niepokoje społeczne
+
++ dekarbonizacja gospodarki w celu walki z globalnym ociepleniem, czyli wzrost cen energii elektrycznej i łatwe kontrolowanie poprzez odłączenie energii
+
++ zintensyfikowanie czwartej rewolucji przemysłowej w oparciu o cyfryzację, nie tylko w celu zwiększenia produktywności, ale także lepszego zarządzania przyrodą - na przykład uniknięcie pandemii, czyli totalna kontrola poprzez środki łączności oraz z użyciem przemocy poprzez roboty
+
+
++ Czwarty filar Wielkiego Resetowania to przejście od "krótkoterminowego" kapitalizmu udziałowców do bardziej sprawiedliwego i bardziej ekologicznego "długoterminowego" kapitalizmu udziałowców, czyli uzależnienie ludzi oszczędności na rzecz rosnącego kredytu
+
++ ściślejsza globalna współpraca, zwłaszcza w kwestiach środowiskowych, wyprowadziłaby świat z narodowego egoizmu, czyli karanie każdego rządu już nie tylko z powodu "demokracji" ale też zanieczyszczeń powietrza
+
+Projekt jest stosunkowo przejrzysty, kwestia dostrzeżenia co kryje się za szczytnymi celami.
 
 
 ##  Prowokujące do myślenia punkty 
@@ -71,7 +87,6 @@ W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rzą
 + Bezpieczeństwo 
 + Prawo
 + Obrona długofalowa
-
 
 
 
