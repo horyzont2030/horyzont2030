@@ -28,7 +28,7 @@ Koncepcja Wielkiego Resetowania obejmuje pięć priorytetów:
 + ściślejsza globalna współpraca, zwłaszcza w kwestiach środowiskowych, wyprowadziłaby świat z narodowego egoizmu, czyli karanie każdego rządu już nie tylko z powodu "demokracji" ale też zanieczyszczeń powietrza
 
 Projekt jest stosunkowo przejrzysty, kwestia dostrzeżenia co kryje się za szczytnymi celami.
-
+https://www.gisreportsonline.com/the-great-reset-prospects-and-risks,economy,3462.html
 
 ##  Prowokujące do myślenia punkty 
 
