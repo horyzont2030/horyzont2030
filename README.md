@@ -167,6 +167,19 @@ Warto poznać w praktyce rezultaty przeprowadzając opisywany w tym dokumencie e
 [PDF](https://www.rockefellerfoundation.org/wp-content/uploads/1b8843cc-0d4c-4d5e-bf35-4c7b2fbbb63d-the.pdf)
 
 
+### Scenario: The SPARS Pandemic Scenario, 2025-2028
+The scenario is hypothetical; the infectious pathogen, medical countermeasures, characters, news media excerpts, social media posts, and government agency responses are entirely fictional.
+
+Project team lead: Monica Schoch-Spana, PhD
+
+Project team: Matthew Shearer, MPH; Emily Brunson, PhD, associate professor of anthropology at Texas State University; Sanjana Ravi, MPH; Tara Kirk Sell, PhD, MA; Gigi Kwik Gronvall, PhD; Hannah Chandler, former research assistant at the Center
+
+Date completed: October 2017
+https://www.centerforhealthsecurity.org/our-work/Center-projects/completed-projects/spars-pandemic-scenario.html
+https://jhsphcenterforhealthsecurity.s3.amazonaws.com/spars-pandemic-scenario.pdf
+
+
+
 # Wywiady
 
 https://www.youtube.com/watch?v=EbHUn1Spxyw
