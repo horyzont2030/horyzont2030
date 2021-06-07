@@ -60,6 +60,12 @@ czyli mordowanie osiągnięć klasy średniej i jej biznesów celem dalszego pan
 czyli ostry zjazd znaczenia suwerenności państwa wobec ośmiornicy organizacji supranarodowych służących tylko ultra-elitom plujących od dekad na "władzę ludu"
 
 
+## Nadzieje związane ze sztuczną inteligencją, AI
+
+Obecnie dzięki AI mamy masową ale spersonalizowaną dezinformację, tzw bańkę informacyjną.
+Więc hasła typu: "Znieść języki, kraje, władze i oddać rządy AI" są odległe od rzeczywistości,
+bliższa jest rzeczywistość zarządzania w lokalnej społeczności kontrolowanej jak w małych firmach poprzez micromanagement.
+
 
 
 ## Pytania
@@ -75,6 +81,8 @@ Dajmy ludziom popełniać błędy, krzywdzić siebie, umierać...
 Z drugiej strony stwórzmy warunki, takie jak tworzymy dzieciom, by się same nie okaleczyły i nie krzywdziły innych swoją niewiedzą.
 
 Zapraszam do współrworzenia architektury Naszego Porządku Świata.
+
+
 
 
 # Plan (NPŚ) Naszego Porządku Świata
