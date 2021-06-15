@@ -134,6 +134,14 @@ To tylko niektóre, jest ich o wiele wiecej, zapraszam do zgłaszania linków z 
 
 + [PDF](http://www.unic.un.org.pl/files/164/Agenda%202030_pl_2016_ostateczna.pdf)
 
+## BBBW - Build Back Better World
+
+https://www.whitehouse.gov/briefing-room/statements-releases/2021/06/12/fact-sheet-president-biden-and-g7-leaders-launch-build-back-better-world-b3w-partnership/
+
+Build Back Better World: An Affirmative Initiative for Meeting the Tremendous Infrastructure Needs of Low- and Middle-Income Countries. President Biden and G7 partners agreed to launch the bold new global infrastructure initiative Build Back Better World (B3W), a values-driven, high-standard, and transparent infrastructure partnership led by major democracies to help narrow the $40+ trillion infrastructure need in the developing world, which has been exacerbated by the COVID-19 pandemic.
+
+Through B3W, the G7 and other like-minded partners with coordinate in mobilizing private-sector capital in four areas of focus—climate, health and health security, digital technology, and gender equity and equality—with catalytic investments from our respective development finance institutions.
+
 
 #### Czym jest agenda 2030?
 
