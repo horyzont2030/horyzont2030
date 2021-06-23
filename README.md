@@ -196,6 +196,14 @@ https://jhsphcenterforhealthsecurity.s3.amazonaws.com/spars-pandemic-scenario.pd
 
 
 
+
+### Sustainable, resilient and inclusive societies –the path towards transformation
+https://sustainabledevelopment.un.org/content/documents/18829Together2030_Sectoral_Paper_HLPF2018.pdf
+
+## Film o tych słowach i planach
+https://www.youtube.com/watch?v=RNi0DHqNPJc
+
+
 # Wywiady
 
 https://www.youtube.com/watch?v=EbHUn1Spxyw
