@@ -7,8 +7,17 @@ Od wielu lat znane są opinii publicznej dokumenty, opisujące dalekosiężne pl
 Jak się bronić?
 - stwórzmy własny plan, dla równowagi
 
-# Dlaczego warto?
-+ Nie robiąc nic godzimy się na przygotowane dla nas scenariusze.
+Wiemy za dużo by nic nie robić.
+
+Wiemy, że jedni dostają QRcode za darmo a inni płacą.
+Wiemy, że jedni idą się testować a inni edytują testy.
+Wiemy, że kontra do terroru władzy centralnej to silna społeczność lokalna, partyzantka.
+Wiemy, że 5G i potem 6G to władza korporacji 1:1, dlatego dziś budujemy własne organizacje.
+
+Co jeszcze wiemy?
+...
+
+Nie robiąc nic godzimy się na przygotowane dla nas scenariusze.
 
 Wolni ludzie nie tylko muszą walczyć o własną wolność ale także tych, którzy nie mają świadomosci tego co ma obecnie miejsce, gdyż stanowią część środowiska w którym żyjemy i tak jak dobrze mieć dobrego sąsiada, tak dobrze jest zadbać w takiej krytycznej sytuacji by nie stał się podatny na szkodliwe działania, godzace w naszą wolność.
 
