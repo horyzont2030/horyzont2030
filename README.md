@@ -217,3 +217,32 @@ Rozmowa z legendą polskiego biznesu, Romanem Kluską o dawnej i dzisiejszej wł
 # Technologie
 + kanały podziemne
 https://spectrum.ieee.org/automaton/robotics/industrial-robots/eu-developing-robot-badgers-for-underground-excavation
+
+
+## Co dalej?
+
+Jeśli nie możesz z nimi wygrać dołącz do nich dziś aby jutro spróbować to zmienić.
+
+Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dostęp do niej później.
+
++ [private5g.pl](https://www.private5g.pl/)
++ [IoT](https://mikroautomatyka.pl)
+
+
+## hashtags
+
++ rok2030
++ agenda2030
++ rok1984
++ Technologia5g
+
+
+---
+
+## Tom Sapletta
++ [Kontakt na linkedin](https://www.linkedin.com/in/tom-sapletta-com/)
++ [Blog Tom Sapletta ' Embedded System Software & Hardware Developer, Germany Essen](https://tom.sapletta.pl/)
++ [Firma Softreck - Leadership Through Software Development](https://softreck.pl/)
+
+---
+
