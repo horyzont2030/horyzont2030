@@ -212,6 +212,26 @@ https://sustainabledevelopment.un.org/content/documents/18829Together2030_Sector
 ## Film o tych słowach i planach
 https://www.youtube.com/watch?v=RNi0DHqNPJc
 
+### Society 5.0
+
+
+No jab, no job" - w obliczu czwartej fali pandemii coraz częściej słychać hasło "brak szczepionki, brak pracy".
+
+Amerykańskie i brytyjskie korporacje, takie jak np. Google coraz częściej uzależniają powrót pracowników do biur pod warunkiem, że będą oni zaszczepieni.
+
+
+1. Czy pracodawca może skierować niezaszczepionych pracowników wyłącznie do pracy zdalnej?
+
+2. Czy nie byłaby to dyskryminacja?
+
+3. Czy pracodawcy w Polsce maja prawo wiedzieć, którzy z ich pracowników za zaszczepieni a którzy nie?
+
+4. W jaki sposób przeciwdziałać rozprzestrzeniania się terroru rządów?
+
+Jeśli również Państwa nurtują powyższe pytania zapraszam do dyskusji...
+
+
+
 
 # Wywiady
 
