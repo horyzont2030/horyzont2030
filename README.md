@@ -69,6 +69,31 @@ czyli mordowanie osiągnięć klasy średniej i jej biznesów celem dalszego pan
 czyli ostry zjazd znaczenia suwerenności państwa wobec ośmiornicy organizacji supranarodowych służących tylko ultra-elitom plujących od dekad na "władzę ludu"
 
 
+# Koncepcja Wielkiego Resetu 
+
+https://wnet.fm/kurier/homo-schwabus-to-nowy-czlowiek-ktorym-mamy-stac-sie-w-niedalekiej-przyszlosci-adam-gniewecki-kurier-wnet-84-2021/
+
+W 2016 roku WEF opublikowało wideoklip, w którym przedstawia 8 przepowiedni Klausa Schwaba na rok 2030:
+
++ „Nic nie będziesz mieć” – i „będziesz z tego powodu szczęśliwy”.
++ „Stany Zjednoczone nie będą wiodącym supermocarstwem na świecie”.
++ „Nie umrzesz, czekając na dawcę narządów” – zostaną wykonane na drukarkach 3D.
++ „Zjesz znacznie mniej mięsa” – mięso będzie „okazjonalnym przysmakiem, a nie podstawowym produktem, dla dobra środowiska i naszego zdrowia”.
++ „Miliard ludzi zostanie przesiedlonych z powodu zmian klimatycznych” – Otwarte Granice Sorosa.
++ „Zadymiacze atmosfery będą musieli zapłacić za emisję dwutlenku węgla” – „będzie globalna cena węgla, co pomoże w odesłaniu paliw kopalnych do historii”.
++ „Mógłbyś przygotowywać się do lotu na Marsa” – naukowcy „wymyślili, jak zachować zdrowie w kosmosie”.
++ „Zachodnie wartości zostaną przetestowane do granic wytrzymałości” – „nie można zapomnieć o kontroli i równowadze, które stanowią podstawę naszych demokracji”.
+
+Klaus Schwab pozostaje w zażyłych stosunkach ze zdumiewającą liczbą najmożniejszych tego świata, których z zadziwiającą łatwością przekonuje do swoich wizji. Wśród nich jest popierający ideę WIELKIEGO RESETU Joe Biden, którego pierwszą decyzją jako prezydenta USA był powrót Stanów Zjednoczonych do paryskiego porozumienia klimatycznego, czyli odwrócenie decyzji Donalda Trumpa z 2017 r. Sprawy klimatyczne to jeden z filarów ideologii zrównoważonego rozwoju i Agendy 2030 ONZ. Jeden ze straszaków, które mają nas przekonać o konieczności przebudowania dotychczasowego, prowadzącego do totalnej klęski, porządku świata.
+
+Drogę do osiągnięcia RESETU Schwab widzi w trzech następujących krokach:
+
++ „Ogłoś zamiar reformy wszystkich aspektów życia społeczeństw przez wprowadzenie globalnego zarządzania i przesłanie powtarzaj.
++ Jeśli to nie przekonuje, symuluj fałszywe scenariusze pandemii, które pokażą, dlaczego świat potrzebuje WIELKIEGO RESETU.
++ Jeśli fałszywe scenariusze pandemii nie są wystarczająco przekonujące, poczekaj, na prawdziwy globalny kryzys i powtórz krok pierwszy”.
+
+
+
 ## Nadzieje związane ze sztuczną inteligencją, AI
 
 Obecnie dzięki AI mamy masową ale spersonalizowaną dezinformację, tzw bańkę informacyjną.
