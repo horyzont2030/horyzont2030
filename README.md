@@ -275,6 +275,17 @@ https://spectrum.ieee.org/automaton/robotics/industrial-robots/eu-developing-rob
 
 ## Co dalej?
 
+Polityka w Polsce jest stosowana z zewnątrz i wewnątrz do ograniczania wolności Polaków i ekspansji ich firm, podczas gdy sąsiedzi z Niemiec potrafią protekcjonizmem kontrolować ekspansje oraz barierami zatrzymywać ewentualnych konkurentów.
+
+Wobec tego osłabienie pozycji sąsiadów samowolnie lub na skutek działań zewnętrznych sił może ewentualnie chwilowo zmienić środek ciężkości i uwolnić na chwilę możliwości Polaków, ale do tego trzeba też już mieć przygotowany plan i rozwiązania.
+
+Zapraszam tych, którzy podzielają ten punkt widzenia do działania w celu zbudowania relacji ze służbami specjalnymi w PL w celu zbudowania długofalowej strategii, aby wykorzystać szansę podczas okienka dziejowego...
+
+
++ [Tom Sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
+
+## alternatywa
+
 Jeśli nie możesz z nimi wygrać dołącz do nich dziś aby jutro spróbować to zmienić.
 
 Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dostęp do niej później.
