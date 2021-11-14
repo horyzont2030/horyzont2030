@@ -119,6 +119,7 @@ Zapraszam do współrworzenia architektury Naszego Porządku Świata.
 
 
 
+
 # Plan (NPŚ) Naszego Porządku Świata
 
 Potrzebny jest plan, zapraszam do jego współtworzenia.
@@ -130,7 +131,15 @@ W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rzą
 + Prawo
 + Obrona długofalowa
 
+## Polityka niedoboru
+ta polotyka mająca na celu zmniejszenie dostępnych surowców a w następstwie zwiększenie cen
+równolegle polityka podwyższania cen energii ze sztucznie zaniżającymi te ceny dopłatami.
+W roku 2022 włączymy przyśpieszenie w wielu kolejnych sferach związanych z dystrybucją lokalną i automatyzowaniem lokalnych łańcuhców dystrybucji.
 
+Nie mając wyboru, aby przeżyć będziemy skupiali się na przyśpieszeniu procesów pozyskiwania i redystrybucji.
+Import jest coraz bardziej ograniczany, kolejne konflikty będą tylko paliły kolejne mosty.
+Ta operacja, planowanego ograniczania dotyczy również ograniczania populacji ludzkiej, dlatego oprócz ludzi zrezygnowanych, łatwowiernych poddających się eksperymentom często są to też specjaliści w dziedzinach bardzo przydatnych na kolejne lata.
+Godząc się z ich utratą już dziś stworzymy lepszy plan, przeciwwagę dla rzeczywistości przygotowywanej nam od lat.
 
 ## Bezpieczeństwo
 
