@@ -132,7 +132,8 @@ W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rzą
 + Obrona długofalowa
 
 
-## Polityka niedoboru
+## Polityka globalnego niedoboru
+
 Polityka mająca na celu zmniejszenie dostępnych surowców a w następstwie zwiększenie cen
 równolegle polityka podwyższania cen energii ze sztucznie zaniżającymi te ceny dopłatami.
 W roku 2022 włączymy przyśpieszenie w wielu kolejnych sferach związanych z dystrybucją lokalną i automatyzowaniem lokalnych łańcuhców dystrybucji.
@@ -142,6 +143,12 @@ Import jest coraz bardziej ograniczany, kolejne konflikty będą tylko paliły k
 Ta operacja, planowanego ograniczania dotyczy również ograniczania populacji ludzkiej, dlatego oprócz ludzi zrezygnowanych, łatwowiernych poddających się eksperymentom często są to też specjaliści w dziedzinach bardzo przydatnych na kolejne lata.
 Godząc się z ich utratą już dziś stworzymy lepszy plan, przeciwwagę dla rzeczywistości przygotowywanej nam od lat.
 
+
+## Polityka globalnej kontroli
+
+Była asystentka Sekretarza Departamentu ds. Mieszkalnictwa i Rozwoju Miast ostrzega, że 'paszporty szczepionkowe nie będą dotyczyły zdrowia lecz są częścią sieci całkowitej kontroli transakcji finansowych, która w pełni zakończy wolność osobistą człowieka na zachodzie'
+
+https://live.childrenshealthdefense.org/bern-switzerland-international-rally-to-halt-corona-measures
 
 
 ## Bezpieczeństwo
