@@ -370,3 +370,8 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 
 ---
 
++ [edit](https://github.com/horyzont2030/www/edit/main/README.md)
+
+```
+https://github.com/horyzont2030/www.git
+```
