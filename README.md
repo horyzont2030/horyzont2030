@@ -143,6 +143,46 @@ Import jest coraz bardziej ograniczany, kolejne konflikty będą tylko paliły k
 Ta operacja, planowanego ograniczania dotyczy również ograniczania populacji ludzkiej, dlatego oprócz ludzi zrezygnowanych, łatwowiernych poddających się eksperymentom często są to też specjaliści w dziedzinach bardzo przydatnych na kolejne lata.
 Godząc się z ich utratą już dziś stworzymy lepszy plan, przeciwwagę dla rzeczywistości przygotowywanej nam od lat.
 
+### Definicja gospodarki niedoboru, Economics of Shortage
+
+Gospodarka niedoboru – pojęcie wprowadzone do teorii ekonomii w roku 1980 przez Janosa Kornaia
+
+Kornai zdefiniował w ten sposób centralnie sterowaną gospodarkę komunistyczną, określając niedobór jako jej cechę immanentną. Książka Kornaia jest klasyczną monografią zagadnienia, przetłumaczoną na wiele języków (w tym stutysięczny nakład w języku chińskim). Praca Kornaia była próbą wytłumaczenia mechanizmów centralnie sterowanej gospodarki nakazowo-rozdzielczej i dała podstawy do opracowania modeli jej transformacji w gospodarkę rynkową w Europie Środkowo-Wschodniej, Rosji i Chinach na przełomie lat 80/90. XX w. 
+
+[Gospodarka niedoboru – Wikipedia, wolna encyklopedia](https://pl.wikipedia.org/wiki/Gospodarka_niedoboru)
+
+Kornai podał następujące cechy charakterystyczne gospodarki niedoboru:
+
+-   Występowanie niedoborów produktów na rynku, które (niedobory) są:
+    -   powszechne (dotyczą wszelkich dóbr)
+    -   częste
+    -   intensywne
+    -   chroniczne
+    -   przedzielane krótkimi okresami nadmiaru
+-   odwrócenie sytuacji rynkowej nabywcy i sprzedawcy
+-   wymuszona substytucja dóbr
+-   wymuszone oszczędności
+-   miękkie ograniczenia budżetowe producentów (przedsiębiorstwa przynoszące straty i tak dotowane są przez państwo)
+-   [paternalizm](https://pl.wikipedia.org/wiki/Paternalizm "Paternalizm")
+-   zduszona [inflacja](https://pl.wikipedia.org/wiki/Inflacja "Inflacja")
+
+
+W nowej książce Kornaia „Dynamizm, rywalizacja i gospodarka nadmiaru” autor wyjaśnienia sposób funkcjonowania gospodarki socjalistycznej - upaństwowionej, która permanentnie staje się gospodarką niedoboru.
+Z drugiej strony gospodarka kapitalistyczna - rynkowa, nieuchronnie prowadzi do nadmiaru. 
+Autor wykazuje, że gospodarka nadmiaru jest ze społecznego punktu widzenia zdecydowanie korzystniejsza niż gospodarka niedoboru.
+
+ 
+ 
+### Ograniczenia produkcji
+
+W Wietnamie zakłady produkujące buty Nike musiały ograniczyć produkcję, ponieważ robotnicy migrujący przesiedlili się do swoich rodzinnych prowincji w obawie przed Covid-19. Chiny, światowa potęga produkcyjna, stają w obliczu epidemii nowych wariantów wirusów i odpowiadają na to za pomocą ukierunkowanych blokad. Ceny fabryczne rosną w tempie 10 proc. rocznie, co stanowi największe tempo od lat 90. XX wieku.
+
+Łącząc wszystkie te elementy razem, indeksy podaży Bloomberg Economics pokazują, że wskaźniki niedoborów w USA znajdują się tuż przy 20-letnim szczycie. Wskaźniki dla Wielkiej Brytanii i strefy euro są na podwyższonym poziomie.
+
+Miary opierają się na szeregu danych, od cen fabrycznych po stosunek zapasów do sprzedaży dla detalistów oraz zaległości w zamówieniach dla firm z sektora usługowego. Odczyty zerowe wskazują na normalne warunki, ujemne oznaczają obfitość towarów, a dodatnie wskazują na ograniczenia. Wskaźniki pokazują gwałtowne przejście od nadwyżki podaży przed kryzysem Covid do dzisiejszych znaczących niedoborów.
+
+https://forsal.pl/gospodarka/artykuly/8284576,kryzys-w-lancuchach-dostaw-zniszczy-globalna-gospodarke-swiat-plynie-w-nieznane.html
+
 
 ## Polityka globalnej kontroli
 
