@@ -341,8 +341,6 @@ Wobec tego osłabienie pozycji sąsiadów samowolnie lub na skutek działań zew
 Zapraszam tych, którzy podzielają ten punkt widzenia do działania w celu zbudowania relacji ze służbami specjalnymi w PL w celu zbudowania długofalowej strategii, aby wykorzystać szansę podczas okienka dziejowego...
 
 
-+ [Tom Sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
-
 ## alternatywa
 
 Jeśli nie możesz z nimi wygrać dołącz do nich dziś aby jutro spróbować to zmienić.
@@ -365,16 +363,18 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 + [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
 + [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
 
+
 ## Wolność
 
 + [O projekcie horyzont2030](https://www.horyzont2030.pl/)
 + [Dobrowolnosc](https://www.dobrowolnosc.pl/)
++ [Opowiadanie: Wariant Polski](https://www.wariantpolski.pl/)
+
 
 ## Technologie
 
 + [private5g.pl](https://www.private5g.pl/)
 + [IoT](https://mikroautomatyka.pl)
-
 
 
 
