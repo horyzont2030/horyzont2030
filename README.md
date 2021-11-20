@@ -356,7 +356,7 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 + Technologia5g
 
 
-## Biznes, rezydencja
+## Biznes, rezydencja, podatki
 
 + [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
 + [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
@@ -369,7 +369,7 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 + [O projekcie horyzont2030](https://www.horyzont2030.pl/)
 + [Dobrowolnosc](https://www.dobrowolnosc.pl/)
 + [Opowiadanie: Wariant Polski](https://www.wariantpolski.pl/)
-
++ [Lokalna Waluta .pl](https://www.lokalnawaluta.pl/)
 
 ## Technologie
 
