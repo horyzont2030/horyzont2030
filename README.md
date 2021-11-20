@@ -349,9 +349,6 @@ Jeśli nie możesz z nimi wygrać dołącz do nich dziś aby jutro spróbować t
 
 Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dostęp do niej później.
 
-+ [private5g.pl](https://www.private5g.pl/)
-+ [IoT](https://mikroautomatyka.pl)
-
 
 ## hashtags
 
@@ -359,6 +356,26 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 + agenda2030
 + rok1984
 + Technologia5g
+
+
+## Biznes, rezydencja
+
++ [Zaplanuj Biznes](https://www.zaplanujbiznes.pl/)
++ [Dlaczego warto robić biznes w Niemczech? dlaczego.de](https://www.dlaczego.de)
++ [Dlaczeo warto i jak zostać rezydentem niemieckim? rezydent.de](https://www.rezydent.de)
++ [Jak zostać nierezydentem polskim? nierezydent.pl](https://www.nierezydent.pl/)
+
+## Wolność
+
++ [O projekcie horyzont2030](https://www.horyzont2030.pl/)
++ [Dobrowolnosc](https://www.dobrowolnosc.pl/)
+
+## Technologie
+
++ [private5g.pl](https://www.private5g.pl/)
++ [IoT](https://mikroautomatyka.pl)
+
+
 
 
 ---
