@@ -371,11 +371,16 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 + [Opowiadanie: Wariant Polski](https://www.wariantpolski.pl/)
 + [Lokalna Waluta .pl](https://www.lokalnawaluta.pl/)
 
+
 ## Technologie
 
 + [private5g.pl](https://www.private5g.pl/)
 + [IoT](https://mikroautomatyka.pl)
 
+
+## Inne
+
+[THE PLAN TO CONTROL THE WORLD - Warning By Scientists](https://www.stopworldcontrol.com/full/)
 
 
 ---
