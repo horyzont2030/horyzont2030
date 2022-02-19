@@ -132,6 +132,38 @@ W kontekście poniżej zamieszczonych inicjatyw oraz terroryzmu korporacji, rzą
 + Obrona długofalowa
 
 
+## The End of Great Consumption:
+
++ Great Depression
++ Great Recession
++ Great Resignation
+ 
+ 
+Kryzys w łańcuchach dostaw na skutek planowanej polityki lockdown-ów to planowana decentralizacja.
+
+Globalizacja oznaczała łatwy transfer dóbr i ludzi, pozwalająca na maksymalizację zysków poprzez specjalizację w skali globalnej.
+
+Dziś okazuje się, w sytuacji wzmożonego popytu koszt dostawy z Szanghaju do Rotterdamu wzrósł o 550%.
+A jak dotrą do portu to nawet nie ma komu ich rozładować. 
+
+Na redzie do portu w L.A. czekały niedawno 73 statki w oczekiwaniu na rozładunek 
+Symbolicznie zaczęło się od Ever Given i zablokowania Kanału Sueskiego 
+jednego kontenerowca na mieliźnie blokującego dostawy i grożącemu Europie w strategicznych dostawach.
+
+Braki półprzewodników, gazu, aluminium, ... wywindowały ceny porównywalnie jedynie do kryzysów naftowych.
+
+Benzyny do ognia dolała też KE poprzez Fit for 55, który rozpoczął spekulację na zwyżki CO2.
+
+Zmiana modelu dystrybucji, produkcji, dostaw wpływa na zmianę modelu konsumpcji. 
+
+Co zaplanowano dla nas w kolejnych odsłonach?
+
++ rezygnacja z zakupu nowego na rzecz korzystania z obecnego prudktu, samochodu, komputera, smartfonu, AGD, mebli, odzieży, butów, ..
++ regionalizacja łańcuchów dostaw, przenoszenie produkcji do UE i USA zakończy dekady spadających cen.
++ fabrycznie odnawianie pojazdów używanych
++ używane nie znaczy tańsze, mamy prawo do naprawy, ale naprawa wychodzi już drożej niż nowy produkt.
+
+
 ## Polityka globalnego niedoboru
 
 Polityka mająca na celu zmniejszenie dostępnych surowców a w następstwie zwiększenie cen
@@ -142,6 +174,7 @@ Nie mając wyboru, aby przeżyć będziemy skupiali się na przyśpieszeniu proc
 Import jest coraz bardziej ograniczany, kolejne konflikty będą tylko paliły kolejne mosty.
 Ta operacja, planowanego ograniczania dotyczy również ograniczania populacji ludzkiej, dlatego oprócz ludzi zrezygnowanych, łatwowiernych poddających się eksperymentom często są to też specjaliści w dziedzinach bardzo przydatnych na kolejne lata.
 Godząc się z ich utratą już dziś stworzymy lepszy plan, przeciwwagę dla rzeczywistości przygotowywanej nam od lat.
+
 
 ### Definicja gospodarki niedoboru, Economics of Shortage
 
