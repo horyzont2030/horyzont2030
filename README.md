@@ -39,6 +39,17 @@ Koncepcja Wielkiego Resetowania obejmuje pięć priorytetów:
 Projekt jest stosunkowo przejrzysty, kwestia dostrzeżenia co kryje się za szczytnymi celami.
 https://www.gisreportsonline.com/the-great-reset-prospects-and-risks,economy,3462.html
 
+
+# Plan, który jest realizowany na naszych oczach
+
++ Terroryzm -> totalna kontrola
++ MultiKulti - jedna religia
++ Bioatak  - lockdowny i zniewolenie biznesu
++ covid - jedno ministerstwo zdrowia WHO
++ wojna na Ukrainie - jedna armia
++ głód, zamieszki - jeden rząd światowy NWO
+
+
 ##  Prowokujące do myślenia punkty 
 
 ### 8 symptomów lawiny pseudo-postępu w dobie mega-przekrętu
