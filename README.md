@@ -43,14 +43,15 @@ https://www.gisreportsonline.com/the-great-reset-prospects-and-risks,economy,346
 # Plan, który jest realizowany na naszych oczach
 
 + Terroryzm -> totalna kontrola
-+ MultiKulti - jedna religia
-+ Bioterroryzm  - lockdowny i zniewolenie biznesu
-+ Covid - jedno ministerstwo zdrowia WHO
-+ Wojna na Ukrainie - jedna armia
-+ Cyberterroryzm - jeden dokument toższamości i płatności, zniewolenie jednostki
-+ Głód - jeden rząd światowy NWO z centralym systemem zarządzania populacją, punktami i socjalem
++ MultiKulti -> jedna religia
++ Bioterroryzm  -> lockdowny i zniewolenie biznesu
++ Covid -> jedno ministerstwo zdrowia WHO
++ Wojna na Ukrainie -> jedna armia EU
++ Cyberterroryzm -> decentralizacja internetu, wprowadzenie infrastruktury 5G, jeden dokument toższamości i płatności, zniewolenie jednostki
++ Głód -> jeden rząd światowy NWO z centralym systemem zarządzania populacją, punktami i socjal
 
 Witamy w roku 2030
+
 NIE BĘDZISZ POSIADAŁ NIC I BĘDZIESZ SZCZĘŚLIWY
 
 
