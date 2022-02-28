@@ -44,10 +44,14 @@ https://www.gisreportsonline.com/the-great-reset-prospects-and-risks,economy,346
 
 + Terroryzm -> totalna kontrola
 + MultiKulti - jedna religia
-+ Bioatak  - lockdowny i zniewolenie biznesu
-+ covid - jedno ministerstwo zdrowia WHO
-+ wojna na Ukrainie - jedna armia
-+ głód, zamieszki - jeden rząd światowy NWO
++ Bioterroryzm  - lockdowny i zniewolenie biznesu
++ Covid - jedno ministerstwo zdrowia WHO
++ Wojna na Ukrainie - jedna armia
++ Cyberterroryzm - jeden dokument toższamości i płatności, zniewolenie jednostki
++ Głód - jeden rząd światowy NWO z centralym systemem zarządzania populacją, punktami i socjalem
+
+Witamy w roku 2030
+NIE BĘDZISZ POSIADAŁ NIC I BĘDZIESZ SZCZĘŚLIWY
 
 
 ##  Prowokujące do myślenia punkty 
