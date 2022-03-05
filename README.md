@@ -396,6 +396,40 @@ Jeśli nie możesz z nimi wygrać dołącz do nich dziś aby jutro spróbować t
 
 Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dostęp do niej później.
 
+## cyberPrewencja.pl
+
++ cyberobrona
++ cyberochrona
++ cybersecurity
+
+
++ Inicjatywa Obrony Strategicznej
++ Strategic Defense Initiative 
+
+Do kompetencji należy również wykrywanie zagrożeń, wycieku informacji oraz zabezpieczanie (szyfrowanie) poufnych danych, tak by chronić je przed konkurencją, organami ścigania lub innymi osobami postronnymi. Wspomaganie konkurencyjności firm na rynku poprzez analizę działań tożsamych firm, w tym identyfikację ich pośredników i dostawców.
+
+## cyberKryminalni.pl
+
++ 
+
+Postęp technologiczny daje nam wiele korzyści. Rodzi jednak nowe, nieznane wcześniej zagrożenia. Nie zobaczysz ich na ulicy. Przeniosły się do świata wirtualnego. Tym zajmują się cyberKryminalni - specjaliści wydziału do walki z cyberprzestępczością.
+
+W naszej pracy wykorzystujemy najwyższej jakości sprzęt i oprogramowanie monitorujące, 
+Analizatory Widma, Wykrywacze złącz nieliniowych, Sprzęt optyczny i optoelektroniczny, Kamery Termowizyjne i Noktowizyjne. 
+Drony z zoomem i termowizją
+
+
+
+## wywiad.info
+
+Dostarczamy informacji odnośnie działań organizacji
+
+
+## raport.org
+
+Raportujemy aktualne wydarzenia do wiedzy publicznej
+
+
 
 ## hashtags
 
