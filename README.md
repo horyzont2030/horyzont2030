@@ -426,6 +426,11 @@ Drony z zoomem i termowizją
 ## wywiad.info
 
 Dostarczamy informacji odnośnie działań organizacji
++ Szkolenia, warsztaty jak działać, wspołpracować, sygnaliści
+
+Automaty do szukania news, które są szybko usuwane
+np przegladanie ostatnich newsow i najswiezszych komentarzy pod nimi
+ktore filmy są Usuwane z poziomu wyszukiwarki i niedostępne z powodu np zawieszenia, blokady użytkownika
 
 
 
@@ -440,6 +445,21 @@ usługi usuwania danych na temat osoby w popularnych wyszukiwarkach
 
 zgłaszanie blokady
 oraz instrukcja co zrobić krok po kro by odzyskać
+
+
+# SaaS
+
+
+## Browseek
+
+Szukanie stron www, fraz
+
+
+
+## Browseen
+
+Archiwum stron / cache
+
 
 
 
@@ -496,6 +516,8 @@ można zlgasazać i otrzymywac informacje na RSS
 ## devalert.pl 
 
 zgłaszanie luk i rozsyłanie przez RSS
+
+
 
 
 
