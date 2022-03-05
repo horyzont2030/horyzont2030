@@ -396,6 +396,9 @@ Jeśli nie możesz z nimi wygrać dołącz do nich dziś aby jutro spróbować t
 
 Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dostęp do niej później.
 
+
+# Usługi
+
 ## cyberPrewencja.pl
 
 + cyberobrona
@@ -425,9 +428,75 @@ Drony z zoomem i termowizją
 Dostarczamy informacji odnośnie działań organizacji
 
 
+
+
+## ewaporacja.pl
+
+usługi usuwania danych na temat osoby w popularnych wyszukiwarkach
+
+
+
+## blokadakonta.pl 
+
+zgłaszanie blokady
+oraz instrukcja co zrobić krok po kro by odzyskać
+
+
+
+
+# Serwisy Informacyjne:
+
+
+## infiltracja.pl
+
+
+
+## incydenty.pl
+
+Codzienna informacja o zdarzeniach, lukach, podatnościach w sieciach i aplikacjach
+
+
+
 ## raport.org
 
-Raportujemy aktualne wydarzenia do wiedzy publicznej
+Raportujemy tygodniowo aktualne wydarzenia do wiedzy publicznej
+
+
+## autoinwigilacja.pl
+
+jak nie dac sie inwigilować,
+instrukcja na co zwracać uwagę przy używaniu, zakładaniu i usuwaniu kont i danych w różnych serwisach
+
+
+
+
+
+
+## cyberatak.com 
+
+Można zgłosić
+
+Instrukcja jak się uchronić 
+Szkolenia o tym jak przebiegają
+
+
+## cyberwarfare.info / cyberwojna.pl
+
+O aktualnych wojnach w sieci
+
+
+
+## zablokowani.pl
+
+informacje o zablokowanych użytkownikach, influencerach
+można zlgasazać i otrzymywac informacje na RSS
+
+
+
+## devalert.pl 
+
+zgłaszanie luk i rozsyłanie przez RSS
+
 
 
 
