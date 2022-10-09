@@ -433,6 +433,14 @@ Gdyby Snowden nie zaczął dyskusji to byśmy mieli mniej informacji, albo dost�
 
 [THE PLAN TO CONTROL THE WORLD - Warning By Scientists](https://www.stopworldcontrol.com/full/)
 
+[Progress on the Sustainable Development Goals - Explained, pointwise-ForumIAS Blog](https://blog.forumias.com/progress-on-the-sustainable-development-goals/)
+
+> ##### About the Sustainable Development Goals (SDGs)
+> 
+> The SDGs are a universal call to action to end poverty, protect the planet, and ensure that by 2030 all people enjoy peace and prosperity. There are total 17 interlinked goals; interlinked because they recognize that action in one area will affect outcomes in others, and that development must balance social, economic and environmental sustainability.
+> 
+> They were adopted by an UN General Assembly Resolution in September 2015 (Agenda 2030). Through the resolution, the global leaders pledged to set the world on a new trajectory to deliver meaningful progress for people and the planet through domestic actions in the next 15 years.
+
 
 ---
 
